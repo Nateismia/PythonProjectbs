@@ -29,6 +29,6 @@ while running:
     #below displays the rendered stuff to screen
     pygame.display.flip()
 
-    clock.tick(60)#60 fps limit
+    clock.tick(30)#30 fps limit
 
 pygame.quit()
